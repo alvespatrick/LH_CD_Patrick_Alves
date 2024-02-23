@@ -7,7 +7,7 @@ Este repositório tem por finalidade apresentar o desafio de Ciência de Dados p
 -  `assigment.ipynb`: notebook com toda análise e desenvolvimento do projeto. 
 Nele são respondidas todas as perguntas propostas do projeto, é realizada a análise exploratória dos dados, tratamento dos dados, treinamento e avaliação dos modelos.
 
-`assigment.pdf`: notebook exportado em formato pdf.
+- `assigment.pdf`: notebook exportado em formato pdf.
 
 - `teste_indicium_precificacao.csv`: dados a serem utilizados
 
